@@ -1,6 +1,3 @@
- PDF To Markdown Converter
-Debug View
-Result View
 # Naive Bayes algorithm on speed dating data
 
 ### A better format can be found in readme.pdf
