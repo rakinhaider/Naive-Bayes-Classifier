@@ -1,0 +1,18 @@
+Quotes removed from 8316 cells.
+Standardized 5707 cells to lower case.
+Value assigned for male in column gender: 1.
+Value assigned for European/Caucasian-American in column race: 2.
+Value assigned for Latino/Hispanic American in column race_o: 3.
+Value assigned for law in column field: 121.
+Mean of attractive_important: 0.22
+Mean of sincere_important: 0.17
+Mean of intelligence_important: 0.20
+Mean of funny_important: 0.17
+Mean of ambition_important: 0.11
+Mean of shared_interests_important: 0.12
+Mean of pref_o_attractive: 0.22
+Mean of pref_o_sincere: 0.17
+Mean of pref_o_intelligence: 0.20
+Mean of pref_o_funny: 0.17
+Mean of pref_o_ambitious: 0.11
+Mean of pref_o_shared_interests: 0.12
